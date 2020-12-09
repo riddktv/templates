@@ -1,0 +1,7 @@
+a.txt
+
+:Author: ridd
+:Email: truongvan.cntt@gmail.com
+:Date: 2020-12-09 20:41
+
+ABC
